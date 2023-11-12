@@ -1,32 +1,7 @@
-# Awesome GitHub Raid Tool
+# Awesome Raid Tool
 
 ![Tool Logo](https://media.discordapp.net/attachments/1170789645940957207/1172273639689818153/image.png)
 
-## Overview
+![Tool Logo](https://media.discordapp.net/attachments/1136579642086653992/1173274305530957956/image.png?ex=65635bd8&is=6550e6d8&hm=551c9a2f5df3d7ffe78f12a3682f5a14cb6a0bd0784ba74adebe7fd6ccd9433f&=&width=1116&height=905)
 
-The Awesome GitHub Raid Tool is a powerful and versatile tool designed for [your purpose]. It provides [brief description of its main features]. 
-
-## Features
-
-- **Feature 1:** Describe the functionality and purpose of the first major feature.
-- **Feature 2:** Explain the second key feature and how it enhances the tool's capabilities.
-- **Feature 3:** Highlight any additional features that make your tool stand out.
-
-## Getting Started
-
-These instructions will help you set up and use the Awesome GitHub Raid Tool on your local machine.
-
-### Prerequisites
-
-- [List any dependencies or prerequisites users need to have installed]
-
-### Installation
-
-1. [Step-by-step installation instructions]
-2. [Include any configuration steps]
-
-### Usage
-
-```bash
-# Provide example commands and usage scenarios
-$ ./awesome-raid-tool --option example
+![Tool Logo](https://media.discordapp.net/attachments/1172234443029762090/1172273503383339140/image.png?ex=655fb7c6&is=654d42c6&hm=f1f79e31b1f443a9c79c330a5d510b4ee47f084e7af0ae9d7c72415c8ef6fb01&=&width=1178&height=905)
